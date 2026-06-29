@@ -2,4 +2,4 @@ logs/
 __pycache__/
 *.pyc
 .env
-data/output/*.csv
+# data/output/*.csv
